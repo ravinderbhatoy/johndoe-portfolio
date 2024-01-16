@@ -358,7 +358,7 @@ ul {
   background-size: cover;
 }
 .project4 {
-  background: url("../images/project-4.jpeg");
+  background: url(images/project-4.jpeg);
   background-position: center center;
   background-size: cover;
 }
