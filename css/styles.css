@@ -340,20 +340,20 @@ ul {
 .project1 {
   grid-row-start: 1;
   grid-row-end: 3;
-  background: url("../images/project-1.jpeg");
+  background: url(../images/project-1.jpeg);
   background-position: center center;
   background-size: cover;
 }
 .project2 {
   grid-column-start: 2;
   grid-column-end: -1;
-  background: url("../images/project-2.jpeg");
+  background: url(/images/project-2.jpeg);
   background-position: center center;
   background-size: cover;
 }
 .project3 {
   grid-column-start: 2;
-  background: url("../images/project-3.jpeg");
+  background: url(images/project-3.jpeg);
   background-position: center center;
   background-size: cover;
 }
