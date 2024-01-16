@@ -340,14 +340,14 @@ ul {
 .project1 {
   grid-row-start: 1;
   grid-row-end: 3;
-  background: url(../images/project-1.jpeg);
+  background: url(images/project-1.jpeg);
   background-position: center center;
   background-size: cover;
 }
 .project2 {
   grid-column-start: 2;
   grid-column-end: -1;
-  background: url(/images/project-2.jpeg);
+  background: url(images/project-2.jpeg);
   background-position: center center;
   background-size: cover;
 }
@@ -358,7 +358,7 @@ ul {
   background-size: cover;
 }
 .project4 {
-  background: url("../images/project-4.jpeg");
+  background: url(images/project-4.jpeg);
   background-position: center center;
   background-size: cover;
 }
